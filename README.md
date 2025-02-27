@@ -1,6 +1,6 @@
 # Wireless Sound Control using Hand Gestures
 
-This project implements wireless sound control using hand gestures, built with Python, OpenCV, and Mediapipe. It captures video from a webcam, detects hand landmarks and uses the distance between specific points (thumb and index finger) to control system volume in real time.
+This project implements wireless sound control using hand gestures, built with Python, OpenCV, and Mediapipe. It captures video from a webcam, detects hand landmarks and uses the distance between specific points (thumb and index finger) to control system volume in real time. The program is closed when the tip of the thumb and little finger touch each other.
 
 ## Features
 - **Real-time Hand Tracking:** Uses Mediapipe for detecting hand landmarks.
