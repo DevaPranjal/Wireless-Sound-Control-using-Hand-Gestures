@@ -8,6 +8,6 @@ This project implements wireless sound control using hand gestures, built with P
 - **Visual Feedback:** Displays hand landmarks and volume level on the video feed.
 
 ## Prerequisites
-- **Python 3.x**
+- **Python 3.7 or later**
 - A webcam (connected and accessible)
 - **Operating System:** Windows (for `pycaw` compatibility)
